@@ -1,0 +1,9 @@
+---
+title: "Ethnic origins and number of Holocaust victims"
+author: Lin Dai
+thanks: "Link to the shiny app at:<https://gtv4ke-dai-lin.shinyapps.io/Auschwitz_concentration_camp/>. Code and data available at: <>"
+date: today
+date-format: long
+format: pdf
+number-sections: true
+---
