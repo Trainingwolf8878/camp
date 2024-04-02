@@ -7,7 +7,7 @@ This repo will follow a reproduction of data from <http://70.auschwitz.org/index
 
 ## Statement on LLM Usage
 
-Some of the code are written with the help of ChatGPT, the entire chat history with ChatGPT is available in llms/usage.txt
+Some of the code are written with the help of ChatGPT, the entire chat history with ChatGPT is available in LLMS/usage.txt
 
 
 ## Contact information
