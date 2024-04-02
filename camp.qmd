@@ -1,9 +1,31 @@
 ---
 title: "Ethnic origins and number of Holocaust victims"
+subtitle: "Auschwitz concentration camp"
 author: Lin Dai
-thanks: "Link to the shiny app at:<https://gtv4ke-dai-lin.shinyapps.io/Auschwitz_concentration_camp/>. Code and data available at: <>"
+thanks: "Link to the shiny app at:<https://gtv4ke-dai-lin.shinyapps.io/Auschwitz_concentration_camp/>. Code and data available at: <https://github.com/Trainingwolf8878/camp>"
 date: today
 date-format: long
 format: pdf
 number-sections: true
+bibliography: references.bib
 ---
+
+## Abstract
+This study presents the development of an interactive web application using Shiny, focusing on visualizing data related to the ethnic origins and number of victims of the Auschwitz concentration camp Holocaust. Through the integration of Shiny and ggplot2 libraries, the application allows users to dynamically explore and analyze victim statistics based on different ethnicities. The user-friendly interface enables users to select specific victim groups of interest, facilitating personalized exploration of the data. The application serves as a valuable tool for enhancing understanding and commemoration of the tragic events at Auschwitz by providing interactive access to historical data. Through this interactive platform, users can engage with and reflect upon the profound impact of the Holocaust, contributing to ongoing efforts in Holocaust education and remembrance.
+
+## What did I do 
+Through the two code segments provided, I have developed an interactive web application using Shiny aimed at showcasing data on the ethnic origins and number of victims of the Auschwitz concentration camp Holocaust. Firstly, I imported necessary libraries including Shiny and ggplot2, and loaded sample data containing statistics on victims from different ethnicities. Subsequently, I designed the application's user interface comprising a title panel and sidebar layout where users can select victim ethnicities of interest via dropdown input. Next, I defined the server logic, incorporating reactive functions to filter data based on user inputs, and render plots and data tables accordingly. Finally, I utilized the shinyApp function to combine the defined UI and server logic, thus creating the Shiny application. This application enables users to interactively explore and comprehend the data on ethnic origins and victim numbers of the Auschwitz concentration camp Holocaust, facilitating a deeper understanding and commemoration of this historical event.
+
+## Conclusion
+Through interactive charts and tables, users can gain a deeper understanding of the scale and impact of the Auschwitz Holocaust, fostering reflection and commemoration of this dark chapter in history. This application not only provides valuable learning tools for individual users but also serves as an important resource for educational institutions, researchers, and memorial organizations. It contributes to the preservation and dissemination of historical memory, reminding people of the serious consequences of war, genocide, and human rights violations.
+
+
+
+## References
+
+Ethnic origins and number of victims of Auschwitz. (n.d.). http://70.auschwitz.org/index.php?option=com_content&view=article&id=89&Itemid=173&lang=en
+
+@citeR, @shiny, @ggplot2
+
+
+@web
